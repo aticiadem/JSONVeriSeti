@@ -1,0 +1,72 @@
+[
+  {
+    "isim": "Kara Şövalye (The Dark Knight)",
+    "imdb": "9.0",
+    "tur": "Aksiyon/Macera",
+	"konu": "arlar.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Dağ II",
+    "imdb": "8,9",
+    "tur": "Savaş/Aksiyon",
+    "konu": "Oin bir savaş olacaktır.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Başlangıç (Inception)",
+    "imdb": "8,8",
+    "tur": "Aksiyon/Bilim Kurgu",
+    "konu": "iz.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Yıldızlararası (Interstellar)",
+    "imdb": "8,6",
+    "tur": "Epik Bilimkurgu",
+    "konu": "er üden ibarettir.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Whiplash",
+    "imdb": "8,5",
+    "tur": "Dram/Drama",
+    "konu": "Gelecr.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Can Dostum (The Intouchables)",
+    "imdb": "8,5",
+    "tur": "Komedi/Dram",
+    "konu": "bakiyisiyle kötüs yapım.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Kara Şövalye Yükseliyor (The Dark Knight Rises)",
+    "imdb": "8,5",
+    "tur": "Aksiyon/Polisiye",
+    "konu": "Teçeecektir...",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+	"isim": "Yenilmezler: Sonsuzluk Savaşı",
+    "imdb": "8,5",
+    "tur": "Aksiyon/Bilim Kurgu",
+    "konu": "Ssavaşın sonucuna bağlıdır.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "Joker",
+    "imdb": "8,5",
+    "tur": "Suç/Dram",
+    "konu": "Got dönüşür. ",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "isim": "3 Aptal (3 Idiots)",
+    "imdb": "8,4",
+    "tur": "Komedi/Dram",
+    "konu": "Hiainin başrol retici bir film olmakta.",
+    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  }
+]
